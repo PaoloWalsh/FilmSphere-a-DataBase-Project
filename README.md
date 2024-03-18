@@ -1,8 +1,16 @@
-#FilmSphere
+# FilmSphere
 Questo progetto è stato realizzato per il corso di Basi di Dati dell'università di Pisa anno accademico 2022-2023. 
+
 Il progetto è stato interamente realizzato da Pietro Balestri e Paolo Walsh.
+## Organizzazione dei file
 Nel file `Specifiche_Progetto.pdf` si trovano le caratteristiche e funzionalità che il database doveva avere. Queste sono state decise dai docendi del corso.
+
 Nel file `DocumentazioneBalestriWalsh.pdf` si trova la documentazione del database in cui si vanno a spiegare le scelte effettuate e le funzionalità implementate.
+
 I file `SchemeNonRistrutturato.pdf` e `SchemeRistrutturato.pdf` si trova lo schema E-R del database.
+
+Nella cartella sql si trova il codice che crea il database lo popola di dati fittizi e implementa le funzionalità descritte nella documentazione.
+
+## Esito finale
 
 Il progetto è stato valutato con un voto finale di 30/30.
