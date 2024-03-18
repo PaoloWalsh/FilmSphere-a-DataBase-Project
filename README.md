@@ -9,7 +9,7 @@ Nel file `DocumentazioneBalestriWalsh.pdf` si trova la documentazione del databa
 
 I file `SchemeNonRistrutturato.pdf` e `SchemeRistrutturato.pdf` si trova lo schema E-R del database.
 
-Nella cartella sql si trova il codice che crea il database lo popola di dati fittizi e implementa le funzionalità descritte nella documentazione.
+Nella cartella `sql` si trova il codice che crea il database lo popola di dati fittizi e implementa le funzionalità descritte nella documentazione.
 
 ## Esito finale
 
