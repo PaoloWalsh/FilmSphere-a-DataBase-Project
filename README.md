@@ -1,16 +1,22 @@
 # FilmSphere
-Questo progetto è stato realizzato per il corso di Basi di Dati dell'università di Pisa anno accademico 2022-2023. 
 
-Il progetto è stato interamente realizzato da Pietro Balestri e Paolo Walsh.
-## Organizzazione dei file
-Nel file `Specifiche_Progetto.pdf` si trovano le caratteristiche e funzionalità che il database doveva avere. Queste sono state decise dai docendi del corso.
+This project was created for the Databases course at the University of Pisa, academic year 2022–2023.
 
-Nel file `DocumentazioneBalestriWalsh.pdf` si trova la documentazione del database in cui si vanno a spiegare le scelte effettuate e le funzionalità implementate.
+The project was entirely developed by **Pietro Balestri** and **Paolo Walsh**.
 
-I file `SchemeNonRistrutturato.pdf` e `SchemeRistrutturato.pdf` si trova lo schema E-R del database.
+## File Organization
 
-Nella cartella `sql` si trova il codice che crea il database lo popola di dati fittizi e implementa le funzionalità descritte nella documentazione.
+- `Specifiche_Progetto.pdf`  
+  Contains the specifications and required functionalities of the database, as defined by the course instructors.
 
-## Esito finale
+- `DocumentazioneBalestriWalsh.pdf`  
+  Contains the database documentation, explaining the design choices and implemented functionalities.
 
-Il progetto è stato valutato con un voto finale di 30/30.
+- `doc/SchemeNonRistrutturato.pdf` & `doc/SchemeRistrutturato.pdf`
+  Contain the E-R (Entity-Relationship) diagrams of the database.
+
+- `src/`  
+  This folder contains the code that:
+  - Creates the database  
+  - Populates it with mock data  
+  - Implements the functionalities described in the documentation
